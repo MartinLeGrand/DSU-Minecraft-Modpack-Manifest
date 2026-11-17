@@ -1,1 +1,1 @@
-# DSU-Minecraft-Modpack-Manifest
+# DSU Minecraft Server Modpack UNSUP Manifest

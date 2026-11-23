@@ -96,8 +96,18 @@ hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "fb6a488f4c9645e827c07eca0cf3a2b463434f19894e43d9c602d954e5144f91"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
 
 [[files]]
@@ -206,6 +216,11 @@ hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
 metafile = true
 
 [[files]]
+file = "mods/solstice-essentials.pw.toml"
+hash = "7ebfc41867952a1b1dc7486cfd28e5b0422c5357d3c23a5177ea5d6d6c3dac5f"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "ba23aeeab120d079eb6b5d6058643ea15e6a81bc5b4cfed85c75dea8b0d2029f"
 metafile = true
@@ -213,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "5f66e0f764c4afcc9b92f97dba46c647941f586b433d0991a6229aedcd700751"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "0897a0192703fb090000926be6db4b070ee085ac2f2fd09ce7bf7f308a0b8440"
 metafile = true
 
 [[files]]

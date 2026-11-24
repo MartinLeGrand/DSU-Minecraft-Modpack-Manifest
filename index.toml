@@ -89,6 +89,11 @@ hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
 metafile = true
 
 [[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "64bcf1af6b447075869d971bf247bb05c471f7b8f8b610a541b33c3f5a210cdf"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "20af764affa7c65142b1adc0055f718a98abbd1f45ac6e11b2a9d7e2ddef7c60"
 metafile = true
@@ -266,4 +271,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "mods/yawp.pw.toml"
+hash = "72ac537206b27f430e6e69d9c54af3efc673e737c44d163b7c71ed3517c3ed1d"
 metafile = true

@@ -1,13 +1,14 @@
 name = "Solstice Essentials"
-filename = "solstice-1.9.7-alpha+1.21.1.jar"
+filename = "solstice-1.9.6+1.21.1.jar"
 side = "server"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/uIvrDZas/versions/FRDUIRBY/solstice-1.9.7-alpha%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/uIvrDZas/versions/XOlY9iQe/solstice-1.9.6%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "3241b82c19d554b285716f5cb98f46d6cdf1ea0204cb9be1940f82c7e51cad81d3cb201722f797d9d75d587031fbcbd9fb93ce2d2c150a8127e44846af0c82bd"
+hash = "99cc42fcdde914156c90dc670deebbb6b074c23a7bbf66fea16f20aaf2aa8d89ebc421c3af86e47b2b60584b975a1f8cacf09e29e66e228c5cc72ed419de4971"
 
 [update]
 [update.modrinth]
 mod-id = "uIvrDZas"
-version = "FRDUIRBY"
+version = "XOlY9iQe"

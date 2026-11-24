@@ -89,6 +89,11 @@ hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
 metafile = true
 
 [[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "64bcf1af6b447075869d971bf247bb05c471f7b8f8b610a541b33c3f5a210cdf"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "20af764affa7c65142b1adc0055f718a98abbd1f45ac6e11b2a9d7e2ddef7c60"
 metafile = true

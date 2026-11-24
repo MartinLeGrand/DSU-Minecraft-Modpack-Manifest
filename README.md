@@ -4,3 +4,7 @@ The DSU Minecraft Server uses unsup together with a packwiz modpack manifest to 
 The point of this is to avoid being forced to ask players to redownload different Prism Launcher modpack instances for every mod addition removal and update.
 
 It gives players the closest thing to a plug and play experience and makes it so that they aren't forced to check Discord if there was an update every time they want to play.
+
+
+
+let it be known that it took blood, sweat, tears, and parsing terrible documentation to get all this to work, just for players never to notice it at all if i did my job well 🥲
